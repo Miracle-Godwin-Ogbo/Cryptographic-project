@@ -1,5 +1,11 @@
 # 🔐 Caesar Cipher Encryption & Decryption Tool
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Project](https://img.shields.io/badge/DecodeLabs-Week%202-orange)
+![Cryptography](https://img.shields.io/badge/Cryptography-Caesar%20Cipher-purple)
+
 A Python-based cryptographic tool developed as **Week 2** of the **DecodeLabs Cybersecurity Internship**. This project demonstrates the implementation of the **Caesar Cipher**, a classical symmetric encryption algorithm that encrypts and decrypts text using a shared secret key.
 
 This project strengthened my understanding of Python programming, cryptography fundamentals, character encoding, loops, conditional statements, string manipulation, and encryption logic.
