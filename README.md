@@ -54,26 +54,51 @@ Wrong key! Decryption failed.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Miracle-Godwin-Ogbo/Caesar-Cipher-Encryption-Tool.git
+git clone https://github.com/Miracle-Godwin-Ogbo/Cryptographic-project.git
 ```
 
-### 2. Navigate to the project folder
+### 2. Navigate to the project directory
 
 ```bash
-cd Caesar-Cipher-Encryption-Tool
+cd Cryptographic-project
 ```
 
 ### 3. Run the program
+
+**Linux (Kali Linux, Ubuntu, Debian, etc.)**
+
+```bash
+python3 Cryptography.py
+```
+
+**Windows**
 
 ```bash
 python Cryptography.py
 ```
 
-or
+---
 
-```bash
-python3 Cryptography.py
-```
+## 🐉 Running the Project on Kali Linux
+
+The screenshots below demonstrate the project running successfully on Kali Linux.
+
+### Successful Encryption (Kali Linux)
+
+![Successful Encryption](Screenshots/successfully_encryption_Kali.png)
+
+---
+
+### Successful Decryption (Kali Linux)
+
+![Successful Decryption](Screenshots/Successfully_Decryption_Kali.png)
+
+---
+
+### Failed Decryption (Incorrect Key)
+
+![Failed Decryption](Screenshots/Fail_decryption_kali.png)
+
 
 ---
 
